@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleSwitchButton">
+        <attr name="handleDrawable" format="reference" />
+        <attr name="outerRingDrawable" format="reference" />
+        <attr name="pointDrawable" format="reference" />
+        <attr name="innerRadius" format="dimension" />
+        <attr name="outerRadius" format="dimension" />
+        <attr name="glowRadius" format="dimension" />
+        <attr name="snapMargin" format="dimension" />
+
+        <attr name="upper" format="reference" />
+        <attr name="bottom" format="reference" />
+    </declare-styleable>
+</resources>

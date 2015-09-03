@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="target_placement_radius">50dp</dimen>
+</resources>

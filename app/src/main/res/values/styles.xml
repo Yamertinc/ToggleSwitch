@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <!-- ToggleSwitch button -->
+    <style name="ToggleSwitchButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="handleDrawable">@drawable/ic_switch</item>
+        <item name="outerRadius">@dimen/target_placement_radius</item>
+        <item name="upper">@drawable/ic_camera</item>
+        <item name="bottom">@drawable/ic_audio</item>
+    </style>
+
+</resources>
