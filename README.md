@@ -2,6 +2,8 @@
 
 This project aims to provide a working dual toggle button implementation. 
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ToggleSwitchButton-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2439)
+
 ![Preview](https://github.com/Aenterhy/ToggleSwitch/blob/master/media/demo.gif)
 #Usage
 
